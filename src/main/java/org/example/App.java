@@ -10,4 +10,8 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+
+    public void v2() {
+        System.out.println("v2");
+    }
 }
