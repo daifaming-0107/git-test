@@ -11,6 +11,10 @@ public class App
         System.out.println( "Hello World!" );
     }
 
+    public void v1() {
+        System.out.println("v1");
+    }
+
     public void v2() {
         System.out.println("v2");
     }
